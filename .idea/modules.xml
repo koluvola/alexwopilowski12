@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SandBoxHome.iml" filepath="$PROJECT_DIR$/.idea/modules/SandBoxHome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SandBoxHome_main.iml" filepath="$PROJECT_DIR$/.idea/modules/SandBoxHome_main.iml" group="SandBoxHome" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SandBoxHome_test.iml" filepath="$PROJECT_DIR$/.idea/modules/SandBoxHome_test.iml" group="SandBoxHome" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/addressbook-test.iml" filepath="$PROJECT_DIR$/.idea/modules/addressbook-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/addressbook-test_main.iml" filepath="$PROJECT_DIR$/.idea/modules/addressbook-test_main.iml" group="addressbook-test" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/addressbook-test_test.iml" filepath="$PROJECT_DIR$/.idea/modules/addressbook-test_test.iml" group="addressbook-test" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/alexwopilowski12-addressbook-test.iml" filepath="$PROJECT_DIR$/.idea/modules/alexwopilowski12-addressbook-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/alexwopilowski12-addressbook-test_main.iml" filepath="$PROJECT_DIR$/.idea/modules/alexwopilowski12-addressbook-test_main.iml" group="addressbook-test" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/alexwopilowski12-addressbook-test_test.iml" filepath="$PROJECT_DIR$/.idea/modules/alexwopilowski12-addressbook-test_test.iml" group="addressbook-test" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sandboxnew.iml" filepath="$PROJECT_DIR$/.idea/modules/sandboxnew.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sandboxnew_main.iml" filepath="$PROJECT_DIR$/.idea/modules/sandboxnew_main.iml" group="sandboxnew" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sandboxnew_test.iml" filepath="$PROJECT_DIR$/.idea/modules/sandboxnew_test.iml" group="sandboxnew" />
+    </modules>
+  </component>
+</project>
